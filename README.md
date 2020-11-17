@@ -14,4 +14,4 @@ This source code contains some basic algorithms such as basic path finding, obst
 
 Because it is a handwritten game, there is no systematic code comment and framework construction, which may be painful for you to read.
 
-But what matters？ (lol)
+But with me fucking thing？ (lol)
