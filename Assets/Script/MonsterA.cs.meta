@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 6d9df2714320d0746b69ff7ef31892d3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bullet: {instanceID: 0}
+  - magic_dama: {fileID: 100006, guid: 8b940ede2c20ec44ba870a2cdd277051, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
