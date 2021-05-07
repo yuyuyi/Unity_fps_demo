@@ -1,3 +1,5 @@
+注意：本项目最近会进行一次更新，将可游玩的完整版本更新到github，请不要下载当前版本，
+
 
 -cn-
 
@@ -5,13 +7,10 @@
 
 由于属于随手写的一个游戏，因此没有进行系统的代码注释和框架构建，您可能读起来会很痛苦。
 
-但是管我什么事（笑）
-
+但是管我什么事（笑)
 
 -en-
 
 This source code contains some basic algorithms such as basic path finding, obstacle avoidance, state machine, simple ai, character attribute decentralization, grid path finding, perception system, etc.
 
 Because it is a handwritten game, there is no systematic code comment and framework construction, which may be painful for you to read.
-
-But with me fucking thing？ (lol)
